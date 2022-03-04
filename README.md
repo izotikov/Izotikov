@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Izotikov
 - 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning Python, SQL, JavaScript at CS50 Harvard.
+- 🌱 I’m currently learning JavaScript + React.
 - 📫 How to reach me izotikov.igor1@yandex.ru
 
 <!---
