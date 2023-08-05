@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @Izotikov
-- 👀 I’m interested in Javascript, React. 
 - 📫 How to reach me izotikov.igor1@yandex.ru
 
 <!---
